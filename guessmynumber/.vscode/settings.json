@@ -1,0 +1,8 @@
+{
+  "liveServer.settings.port": 5501,
+  "[markdown]": {
+    "editor.wordWrapColumn": 250,
+    "editor.wordWrap": "wordWrapColumn",
+    "diffEditor.wordWrap": "inherit"
+  }
+}
